@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">Habit Tracker</string>
+    <string name="habits_tab">Habits</string>
+    <string name="rewards_tab">Rewards</string>
+    <string name="stats_tab">Stats</string>
+    <string name="add_habit">Add Habit</string>
+    <string name="add_reward">Add Reward</string>
+    <string name="habit_name">Habit Name</string>
+    <string name="habit_description">Description (optional)</string>
+    <string name="points_per_completion">Points per completion</string>
+    <string name="save">Save</string>
+    <string name="cancel">Cancel</string>
+    <string name="level">Level</string>
+    <string name="xp">XP</string>
+    <string name="points">Points</string>
+    <string name="current_streak">Current Streak</string>
+    <string name="days">days</string>
+    <string name="reward_name">Reward Name</string>
+    <string name="reward_cost">Point Cost</string>
+    <string name="redeem">Redeem</string>
+    <string name="delete">Delete</string>
+    <string name="edit">Edit</string>
+    <string name="mark_complete">Mark Complete</string>
+    <string name="completed_today">Completed Today!</string>
+    <string name="total_habits">Total Habits</string>
+    <string name="completion_rate">Completion Rate</string>
+    <string name="total_points_earned">Total Points Earned</string>
+    <string name="longest_streak">Longest Streak</string>
+</resources>
